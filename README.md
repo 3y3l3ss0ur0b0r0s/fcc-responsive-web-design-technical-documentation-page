@@ -1,6 +1,4 @@
-# fcc-responsive-web-design-technical-documentation-page
-Technical Documentation Page is a project for freeCodeCamp's Responsive Web Design course.
-[The project is located here.](https://codepen.io/3y3l3ss0ur0b0r0s/full/jOKYpzL)
+**The description for this freeCodeCamp project is below. [The project is located here.](https://codepen.io/3y3l3ss0ur0b0r0s/full/jOKYpzL)**
 
 >Build a Technical Documentation Page
 >Objective: Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks
